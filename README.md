@@ -81,6 +81,7 @@ I discovered that anyone who tried to delete a Time Off Event ran into an odd bu
             base.Dispose(disposing);
         }
 ```
+*Jump to*: [Top of Page](https://github.com/damsalem/Prosper-IT-Internship/blob/master/README.md#prosper-it-internship), [Other Skills](https://github.com/damsalem/Prosper-IT-Internship/blob/master/README.md#other-skills-i-learned)
 ## Changed a Function so the Start Property Was Set to the Current Time
 When an employee creates a time-off event in the calendar, he had to select the time in each and every case. This made for an unfriendly UX and so I changed the Start Property to a DateTime.Now.
 ```
@@ -199,4 +200,5 @@ While testing the time off event as described above, I noticed that we were runn
 * Practicing pair programming—when one developer runs into a bug they cannot solve.
     * One of the developers was having troubles with the navbar formatting and subsequent bugs. Using Slack, I walked him through the code and he was able to sort it out and debug it in minutes.
     * I was struggling through debugging a Bootstrap Datepicker. A teammate took half of code and helped me sort through it and get it fixed.
+
 *Jump to*: [Top of Page](https://github.com/damsalem/Prosper-IT-Internship/blob/master/README.md#prosper-it-internship)
