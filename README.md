@@ -7,7 +7,6 @@ I saw first-hand how code can evolve over time as it goes through the Software D
 Over the two week sprint I also had the opportunity to work on project management and team programming skills that I'm confident I will use again and again on future projects.
 
 Much of the project was brand new when I got to it, so many of the stories were simple and procedural. However, I've included some of the more interesting code I was able to work on. Below are descriptions of the stories I worked on, along with code snippets and navigation links. 
-#Interesting Stories
 
 ## Added a Clickable Mail Icon Using Glyphicons
 ```
@@ -40,7 +39,7 @@ Much of the project was brand new when I got to it, so many of the stories were 
             </div>
         </div>
 ```
-*Jump to*: Top of Page
+*Jump to*: [Top of Page](https://github.com/damsalem/Prosper-IT-Internship/blob/master/README.md#prosper-it-internship)
 ## Changed a Function so the Start Property Was Set to the Current Time
 ```
 // POST: WorkTimeEvents/Create
@@ -63,7 +62,7 @@ Much of the project was brand new when I got to it, so many of the stories were 
             return View(workTimeEvent);
         }
 ```
-*Jump to*: Top of Page
+*Jump to*: [Top of Page](https://github.com/damsalem/Prosper-IT-Internship/blob/master/README.md#prosper-it-internship)
 ## Create a ScheduleFromTemplate Method
 ```
 /// Create a schedule from a template 
@@ -77,7 +76,7 @@ Much of the project was brand new when I got to it, so many of the stories were 
             return schedule;
         }
 ```
-*Jump to*: Top of Page
+*Jump to*: [Top of Page](https://github.com/damsalem/Prosper-IT-Internship/blob/master/README.md#prosper-it-internship)
 ## Changed Multiple Views on a Controller so They Are Accessible to Logged in Roles Only
 ```
 // GET: TempSchedule
@@ -91,4 +90,11 @@ Much of the project was brand new when I got to it, so many of the stories were 
             else return View("~/Views/Shared/LoginError.cshtml");
         }
 ```
-*Jump to*: Top of Page
+*Jump to*: [Top of Page](https://github.com/damsalem/Prosper-IT-Internship/blob/master/README.md#prosper-it-internship)
+# Other Skills I Learned
+* Working with a group of developers to identify front-end and back-end bugs to the improve usability of an application.
+* Improving project flow and efficiency by communicating and separating areas of work according to features.
+* Learning new efficiencies from other developers by observing their workflow and asking questions.
+* Practicing pair programming—when one developer runs into a bug they cannot solve.
+    * One of the developers was having troubles with the navbar formatting and subsequent bugs. Using Slack, I walked him through the code and he was able to sort it out and debug it in minutes.
+    * I was struggling through debugging a Bootstrap Datepicker. A teammate took half of code and helped me sort through it and get it fixed.
